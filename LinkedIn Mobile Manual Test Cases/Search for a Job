@@ -1,0 +1,26 @@
+Description : 
+
+Validate that system retrieves familiar jobs for the User related to their Search.
+
+Prequistes :
+
+1- Android/iOS device.
+2- latest OS versions have been installed.
+3- having a successfully registered Account.
+
+Steps : 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+              [Action]                                                            |           [Expected Result]                                                       
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1- Tab on LinkedIn app icon inside your phone.                                    >   App is launched successfully.
+2- Tab on "Sign in" button.                                                       >   Navigates to next screen that includes login screen.
+3- Type registered email/phone number first field.                                >   Email is displayed into the field.
+4- Type your password inside password field.                                      >   password is displayed into the field as bullets form.
+5- Tab on "Continue" Button.                                                      >   Navigates to next screen that includes Homepage screen of new registered user.
+6- Tab on "Jobs" icon button inside navigation bar.                               >   Navigates to next screen search for jobs.
+7- Tab on "Search Jobs" text field.                                               >   two text fields displayed.
+8- Type "Quality Control" inside "Search By title,or Company" text field.         >   *text displayed inside the field.
+                                                                                      *Related Familiar search retrieves in menu below text fields.
+9- Type a Location (Optional)                                                     >   Location is displayed inside the field.
+10- Tab on "See all results"                                                      >   Retrieved a list of related Quality Control Search.
