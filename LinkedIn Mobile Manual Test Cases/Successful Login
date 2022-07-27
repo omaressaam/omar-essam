@@ -1,0 +1,20 @@
+Description : 
+
+Verify that the new registered account is able to login successfully.
+
+Prequistes :
+
+1- Android/iOS device.
+2- latest OS versions have been installed.
+3- having an registered phone number/email successfully.
+
+Steps : 
+
+-------------------------------------------------------------------------------------------------------------------------------------
+              [Action]                              |           [Expected Result]                                                       
+-------------------------------------------------------------------------------------------------------------------------------------
+1- Tab on LinkedIn app icon inside your phone.      >   App is launched successfully.
+2- Tab on "Sign in" button.                         >   Navigates to next screen that includes login screen.
+3- Type registered email/phone number first field.  >   Email is displayed into the field.
+4- Type your password inside password field.        >   password is displayed into the field as bullets form.
+5- Tab on "Continue" Button.                        >   Navigates to next screen that includes Homepage screen of new registered user.
