@@ -1,0 +1,33 @@
+Reproducible Steps :
+
+1- Tab on LinkedIn app icon inside your phone.                      
+2- Tab on "Sign in" button.                                           
+3- Type registered email/phone number first field.                   
+4- Type your password inside password field.                           
+5- Tab on "Continue" Button.                                          
+6- Tab on "Post" icon button inside navigation bar                     
+7- Tab on "What do you want to talk about?" text field                
+8- Type "Hey i am looking for QC Jobs"                                 
+9- Click on "Add Hashtags".                                       
+10- type "#QC" and "#Jobs".                                           
+11- (Optional) you can add a photo/document via attachments icon below.  
+12- from upper right corner Tab on "Post" button.    
+13- from homepage on your post tab on "..." and select delete post.
+
+
+
+Actual Result    :  display message "Oops! Failed to delete the update. Please refresh the page and try again.".
+
+Expected Result  :  post should be removed.
+
+Affected Devices :   Andriod/iOS
+
+Network : WiFi / Mobile Date.
+
+Severity : Critical.
+
+Priority : High.
+
+Impact: Database.
+
+Attachments : are disabled due to LinkedIn Policies.
