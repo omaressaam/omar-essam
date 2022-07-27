@@ -1,0 +1,26 @@
+Description : 
+
+Validate that User has the ability to try trail of 1 month (Plan) for free.
+
+Prequistes :
+
+1- Android/iOS device.
+2- latest OS versions have been installed.
+3- having a successfully registered Account.
+
+Steps : 
+
+-------------------------------------------------------------------------------------------------------------------------------------
+              [Action]                                              |           [Expected Result]                                                       
+-------------------------------------------------------------------------------------------------------------------------------------
+1- Tab on LinkedIn app icon inside your phone.                      >   App is launched successfully.
+2- Tab on "Sign in" button.                                         >   Navigates to next screen that includes login screen.
+3- Type registered email/phone number first field.                  >   Email/Phone number is displayed into the field.
+4- Type your password inside password field.                        >   password is displayed into the field as bullets form.
+5- Tab on "Continue" Button.                                        >   Navigates to next screen that includes Homepage screen of new registered user.
+6- Tab on the Profile photo (Left upper corner of the screen).      >   navigates to your profile screen.
+7- Scroll down to who viewed your profile section Tab on it.        >   Navigates to its screen.
+8- Tab on "Try Premium for free".                                   >   Navigates to plans page.
+9- select your plan.                                                >   Plan selected.
+10- Tab on "Next" button.                                           >   Plan selected and navigates ti final page.
+11- Tab on "Try 1 month free" button.                               >   Plan purchases successfully.
