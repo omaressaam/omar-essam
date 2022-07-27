@@ -1,1 +1,28 @@
+Description : 
 
+Validate that register new account leads to new creation for a user.
+
+Prequistes :
+
+1- Android/iOS device.
+2- latest OS versions have been installed.
+3- having an active email also verified or an active phone number.
+
+Steps : 
+
+-------------------------------------------------------------------------------------------------------------------------------------
+              [Action]                           |           [Expected Result]                                                       
+-------------------------------------------------------------------------------------------------------------------------------------
+1- Tab on LinkedIn app icon inside your phone.   >   App is launched successfully.
+2- Tab on "Join Now" button.                     >   Navigates to next screen that includes Adding First & Last Names text fields.
+3- Type "Omar" inside first name field.          >   Name is displayed into the field.
+4- Type "Test" inside Last name field.           >   Name is displayed into the field.
+5- Tab on "Continue" Button.                     >   Navigates to next screen that includes Adding email or phone number.
+6- Type your phone number/email.                 >   Phone number/email is displayed into the field.
+7- Tab on "Continue" button.                     >   Navigates to next screen that includes Setting your password.
+8- Type Password "eE@12345".                     >   Password is displayed into bullets form inside the password field.
+9- Tab on "Agree & Join" Button.                 >   Screen reloads to next screen "Security check".
+10- Tab on "Verify" button.                      >   Screen loads with RECAPTCHA puzzels.
+11- solve them as required.                      >   Screen navigates to next screen of OTP or Email verification code.
+12- Type the code has been sent to you.          >   Code is displayed in the field.
+13- Tab on "Submit" button.                      >   Your account has been verified (Check Database).
