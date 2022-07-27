@@ -1,0 +1,26 @@
+Description : 
+
+Validate that User has the ability to display to all LinkedIn community that they will be "Open to" (Hiring/Work).
+
+Prequistes :
+
+1- Android/iOS device.
+2- latest OS versions have been installed.
+3- having a successfully registered Account.
+
+Steps : 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+              [Action]                                              |           [Expected Result]                                                       
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1- Tab on LinkedIn app icon inside your phone.                      >   App is launched successfully.
+2- Tab on "Sign in" button.                                         >   Navigates to next screen that includes login screen.
+3- Type registered email/phone number first field.                  >   Email is displayed into the field.
+4- Type your password inside password field.                        >   password is displayed into the field as bullets form.
+5- Tab on "Continue" Button.                                        >   Navigates to next screen that includes Homepage screen of new registered user.
+6- Tab on the Profile photo (Left upper corner of the screen).      >   navigates to your profile screen.
+7- Tab on "Open to" button.                                         >   Slides up a menu has 3 options (providing a service, Hiring or Finding a new Job).
+8- Select any of them. (Find a new job)                             >   Nagivates to next screen.
+9 * Type a job description , Select Workplaces , Add Location
+  * selet job type and in last who can see you're open.             >   Data displayed into fields correctly.
+10- Tab on "Add to Profile" button.                                 >   Closes the panel and Profile updates with "Open To Work" status (profile photo has open to work frame).
