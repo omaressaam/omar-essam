@@ -1,0 +1,30 @@
+Reproducible Steps :
+
+1- Tab on LinkedIn app icon inside your phone.                          
+2- Tab on "Join Now" button.                                          
+3- Type "Omar" inside first name field.                                  
+4- Type "Test" inside Last name field.                                  
+5- Tab on "Continue" Button.                                          
+6- Type your phone number/email (is already old account)                 
+7- Tab on "Continue" button.
+8- Type Password "eE@12345".                                         
+9- Tab on "Agree & Join" Button.                                         
+10- Tab on "Verify" button.                                              
+11- solve them as required. (Infinite Loop) 
+
+
+Actual Result    :   infinite RECAPTCHA happens.
+
+Expected Result  :   only one RECAPTCHA displays for the user.
+
+Affected Devices :   Andriod/iOS
+
+Network : WiFi / Mobile Date.
+
+Severity : Critical.
+
+Priority : High.
+
+Impact: Database.
+
+Attachments : are disabled due to LinkedIn Policies.
