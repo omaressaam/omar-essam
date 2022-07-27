@@ -1,0 +1,19 @@
+Description : 
+
+Validate that User has no ability to Login while the registered number is incorrect.
+
+Prequistes :
+
+1- Android/iOS device.
+2- latest OS versions have been installed.
+
+Steps : 
+
+-------------------------------------------------------------------------------------------------------------------------------------
+              [Action]                              |           [Expected Result]                                                       
+-------------------------------------------------------------------------------------------------------------------------------------
+1- Tab on LinkedIn app icon inside your phone.      >   App is launched successfully.
+2- Tab on "Sign in" button.                         >   Navigates to next screen that includes login screen.
+3- Type Incorrect phone number in first field.      >   Phone number is displayed into the field.
+4- Type your password inside password field.        >   password is displayed into the field as bullets form.
+5- Tab on "Continue" Button.                        >   Display a pop up message "Hmm, we don't recognize that username. Please try again" in the middle of the screen with "Okay" button.
