@@ -1,0 +1,28 @@
+Reproducible Steps :
+
+1- Tab on LinkedIn app icon inside your phone.                          
+2- Tab on "Join Now" button.                                          
+3- Type "Omar" inside first name field.                                  
+4- Type "Test" inside Last name field.                                  
+5- Tab on "Continue" Button.                                          
+6- Type your phone number/email (is already old account)                 
+7- Tab on "Continue" button.
+8- Type Password "eE@12345".                                         
+9- Tab on "Agree & Join" Button.                                         
+10- Tab on "Verify" button.                                              
+11- solve them as required.  
+
+
+Actual Result    :   Verification does happen in step
+
+Expected Result  :   Verification must happens in step 6 or 7
+
+Affected Devices :   Andriod/iOS
+
+Network : WiFi / Mobile Date.
+
+Severity : High.
+
+Priority : Medium.
+
+Impact: Database.
