@@ -1,0 +1,24 @@
+Description : 
+
+Validate that User has the ability to add a new connection (Another User).
+
+Prequistes :
+
+1- Android/iOS device.
+2- latest OS versions have been installed.
+3- having a successfully registered Account.
+
+Steps : 
+
+-------------------------------------------------------------------------------------------------------------------------------------
+              [Action]                                     |           [Expected Result]                                                       
+-------------------------------------------------------------------------------------------------------------------------------------
+1- Tab on LinkedIn app icon inside your phone.             >   App is launched successfully.
+2- Tab on "Sign in" button.                                >   Navigates to next screen that includes login screen.
+3- Type registered email/phone number first field.         >   Email is displayed into the field.
+4- Type your password inside password field.               >   password is displayed into the field as bullets form.
+5- Tab on "Continue" Button.                               >   Navigates to next screen that includes Homepage screen of new registered user.
+6- Tab on "My Network" icon button inside navigation menu  >   navigates to next screen of network suggestions.
+7- Tab on Any Connection (User).                           >   Navigates to the Connection's Profile.
+8- Tab on "..." inside the user profile.                   >   slides down a menu.
+Tab on "Connect".                                          >   Menu closed and request of connection has been sent to this User.
