@@ -1,0 +1,23 @@
+ Tab on LinkedIn app icon inside your phone.                       
+2- Tab on "Sign in" button.
+3- Type registered email/phone number first field.
+4- Type your password inside password field.                            
+5- Tab on "Continue" Button.                                             
+6- Switch to low quality network (WiFi)
+7- Refresh Homepage.
+
+Actual Result    :  Display 3 days ago posts already has been viewed
+
+Expected Result  :  display message that connect to better wifi or infinite wifi connection screen.
+
+Affected Devices :   Andriod/iOS
+
+Network : WiFi / Mobile Date.
+
+Severity : Critical.
+
+Priority : High.
+
+Impact: User experiecne .
+
+Attachments : are disabled due to LinkedIn Policies.
