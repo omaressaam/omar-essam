@@ -1,0 +1,23 @@
+Reproducible Steps :
+
+1- Login
+2- go to any connection
+3- tab on "connect" button.
+
+
+Actual Result    :  Connect buttons turns to "Pending".
+
+Expected Result  :   Connection button turns to "Cancel Connection request".
+
+Affected Devices :   Andriod/iOS
+
+Network : WiFi / Mobile Date.
+
+Severity : High.
+
+Priority : High.
+
+Impact: User Experience wise.
+
+Attachments : are disabled due to LinkedIn Policies.
+
