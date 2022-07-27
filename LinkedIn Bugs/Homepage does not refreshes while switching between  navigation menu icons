@@ -1,0 +1,24 @@
+Reproducible Steps :
+
+1- Login
+2- go to notifications.
+3- jump back to homepage.
+4- go again to notifications.
+5- back to homepage.
+
+
+Actual Result    :   homepage caches does not refresh while switching between tabs.
+
+Expected Result  :   homepage it's better to refreshes like other top applications.
+
+Affected Devices :   Andriod/iOS
+
+Network : WiFi / Mobile Date.
+
+Severity : Medium.
+
+Priority : Medium.
+
+Impact: App performances & Battery health wise.
+
+Attachments : are disabled due to LinkedIn Policies.
