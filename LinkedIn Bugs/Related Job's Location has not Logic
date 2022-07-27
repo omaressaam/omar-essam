@@ -1,0 +1,25 @@
+Reproducible Steps :
+
+1- Login
+2- go to jobs
+3- type any job
+4- type in location Nacr city
+5- tab on "See all results"
+
+
+Actual Result    :   jobs relate to very far locations like aswan and beni suief.
+
+Expected Result  :  only cloest jobs should be retrieved.
+
+Affected Devices :   Andriod/iOS
+
+Network : WiFi / Mobile Date.
+
+Severity : High.
+
+Priority : Medium.
+
+Impact: User Experience .
+
+Attachments : are disabled due to LinkedIn Policies.
+
