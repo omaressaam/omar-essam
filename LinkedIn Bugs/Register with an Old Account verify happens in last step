@@ -13,7 +13,7 @@ Reproducible Steps :
 11- solve them as required.  
 
 
-Actual Result    :   Verification does happen in step
+Actual Result    :   Verification does happen in step 11
 
 Expected Result  :   Verification must happens in step 6 or 7
 
@@ -26,3 +26,5 @@ Severity : High.
 Priority : Medium.
 
 Impact: Database.
+
+Attachments : are disabled due to LinkedIn Policies.
