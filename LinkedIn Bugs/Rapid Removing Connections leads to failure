@@ -1,0 +1,25 @@
+Reproducible Steps :
+
+1- Tab on Profile.
+2- tab on "Discover More".
+3- Tab on "Manage my network".
+4- Tab on "Connections".
+5- Scroll down to first connections.
+6- tab on "..."
+7- Tab on "Remove connection".
+
+Actual Result    :  nothing happens.
+
+Expected Result  :  connectiong must be removed.
+
+Affected Devices :   Andriod/iOS
+
+Network : WiFi / Mobile Date.
+
+Severity : Critical.
+
+Priority : Highest.
+
+Impact: Database and profiles.
+
+Attachments : are disabled due to LinkedIn Policies.
