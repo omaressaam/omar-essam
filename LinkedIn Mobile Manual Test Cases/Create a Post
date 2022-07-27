@@ -1,0 +1,27 @@
+Description : 
+
+Validate that User has the ability to Post a post on LinkedIn.
+
+Prequistes :
+
+1- Android/iOS device.
+2- latest OS versions have been installed.
+3- having an active email also verified or an active phone number.
+
+Steps : 
+
+-------------------------------------------------------------------------------------------------------------------------------------
+              [Action]                                                    |           [Expected Result]                                                       
+-------------------------------------------------------------------------------------------------------------------------------------
+1- Tab on LinkedIn app icon inside your phone.                            >   App is launched successfully.
+2- Tab on "Sign in" button.                                               >   Navigates to next screen that includes login screen.
+3- Type registered email/phone number first field.                        >   Email is displayed into the field.
+4- Type your password inside password field.                              >   password is displayed into the field as bullets form.
+5- Tab on "Continue" Button.                                              >   Navigates to next screen that includes Homepage screen of new registered user.
+6- Tab on "Post" icon button inside navigation bar                        >   Navigates to Create a new Post screen.
+7- Tab on "What do you want to talk about?" text field                    >   mouse cursor start to flashing (ready to start typing).
+8- Type "Hey i am looking for QC Jobs"                                    >   text has been displayed into the field.
+9- Click on "Add Hashtags".                                               >   "#" has been typed.
+10- type "#QC" and "#Jobs".                                               >   hashtags have been added.
+10- (Optional) you can add a photo/document via attachments icon below.   >   attachments have been added.
+10- from upper right corner Tab on "Post" button.                         >   post has been published.
