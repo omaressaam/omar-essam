@@ -1,0 +1,21 @@
+Description : 
+
+Validate that User has the ability to Withdraw from his Back Account.
+
+Prequistes :
+
+1- Fingerprints (correct and incorrect).
+2- PIN Codes (correct & incorrect) are saved.
+
+Steps : 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+              [Action]                              |           [Expected Result]                                                       
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1- Place your Thumb on the scanner.                 >   Scanner Reads the Thumbprint (mismatched) and display an error message "Thumbprint mismatched, Please Try again Yes/No Buttons.
+2- Click on "Yes" button.                           >   the scanner screen is clear to try again.
+3- repeat step 1.                                   >   Scanner Reads the Thumbprint (matched) and navigates to PIN Verification Screen.
+4- Type your PIN Code.                              >   The PIN mismatches with the DB and and display message "The PIN is correct, Please Try Again".
+5- Repeat Step 4.                                   >   The PIN mismatches with the DB and and display message "The PIN is correct, Please Try Again".
+6- Type your PIN Code.                              >   The PIN matches with the DB and Navigates to next screen that includes Transfer Action.
+7- Transfer the Amount.                             >   Transfer Successfully done and deducted the amount from DB.
