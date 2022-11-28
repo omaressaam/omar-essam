@@ -1,0 +1,19 @@
+
+
+Description : 
+
+Validate that User has the ability to Repeat PIN Code Verification meanwhile PIN code Trial's number is two.
+
+Prequistes :
+
+1- having correct Fingerprint.
+
+
+Steps : 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+              [Action]                              |           [Expected Result]                                                       
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1- Place your Thumb on the scanner.                 >   Scanner Reads the Thumbprint (matched) and navigates to PIN Verification Screen.
+2- Type your PIN Code.                              >   The PIN mismatches with the DB and and display message "The PIN is correct, Please Try Again".
+3- Repeat step 2.                                   >   The PIN mismatches with the DB and and display message "The PIN is correct, Please Try Again".
