@@ -15,4 +15,4 @@ Steps :
               [Action]                              |           [Expected Result]                                                       
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1- Place your Thumb on the scanner.                 >   Scanner Reads the Thumbprint (matched) and navigates to PIN Verification Screen.
-2- 2- Type your PIN Code.                           >   The PIN mismatches with the DB and and display message "The PIN is correct, Please Try Again".
+2- Type your PIN Code.                              >   The PIN mismatches with the DB and and display message "The PIN is correct, Please Try Again".
