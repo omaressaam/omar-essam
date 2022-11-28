@@ -1,0 +1,18 @@
+
+Description : 
+
+Validate that User has the ability to Withdraw from his Back Account.
+
+Prequistes :
+
+1- Fingerprint is Registered.
+2- PIN Code is saved.
+
+Steps : 
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+              [Action]                              |           [Expected Result]                                                       
+------------------------------------------------------------------------------------------------------------------------------------------------
+1- Place your Thumb on the scanner.                 >   Scanner Reads the Thumbprint (matched) and navigates to PIN Verification Screen.
+2- Type your PIN Code.                              >   The PIN matches with the DB and Navigates to next screen that includes Transfer Action.
+3- Transfer the Amount.                             >   Transfer Successfully done and deducted the amount from DB.
